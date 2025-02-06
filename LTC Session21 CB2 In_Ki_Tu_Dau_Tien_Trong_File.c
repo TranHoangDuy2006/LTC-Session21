@@ -10,7 +10,7 @@ int main()
 
     if(f == NULL) 
         {
-            printf("Khong the mo file bt1.txt!\n");
+            printf("Khong the mo file 'bt1.txt'!\n");
             
             exit(1);
         }
@@ -19,7 +19,7 @@ int main()
     
     if(firstCh == EOF) 
         {
-            printf("File bt1.txt trong!\n");
+            printf("File 'bt1.txt' dang trong!\n");
         } 
             else 
             {
